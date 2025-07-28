@@ -1,0 +1,11 @@
+{
+  "version": 1722496200000,
+  "perChunk": 1,
+  "total": 4,
+  "chunks": [
+    { "file": "grids_00.txt", "count": 1 },
+    { "file": "grids_01.txt", "count": 1 },
+    { "file": "grids_02.txt", "count": 1 },
+    { "file": "grids_03.txt", "count": 1 }
+  ]
+}
